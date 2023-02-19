@@ -9,6 +9,14 @@
     color: #E8A236;
 }
 
+.sticky {
+    position: sticky;
+}
+
+.slide-up {
+    transform: translateY(-200px)
+}
+
 .wrapper {
     display: flex;
     flex-grow: 1;
