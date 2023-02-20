@@ -16,7 +16,7 @@ export function Product({ product }:ProductProps) {
           />
         </div>
         <div className="mt-4 flex justify-between px-5 pb-4 rounded-b-lg h-auto">
-          <p className="text-base text-orange font-extralight text-gray-900">{'$' + product.price}</p>
+          <p className="text-base text-orange-200 font-extralight text-gray-900">{'$' + product.price}</p>
           <div>
             <h3 className="text-base ml-6 font-light font-sans">
               <Link to="/">
