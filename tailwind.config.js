@@ -17,8 +17,9 @@ module.exports = {
       'slategray': '#708090'
     },
     fontFamily: {
-      sans: ['Graphik', 'sans-serif'],
+      sans: ['Source Sans Pro', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
+      dashed: ['Codystar', 'cursive']
     },
     
   plugins: [],

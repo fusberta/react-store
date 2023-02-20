@@ -1,8 +1,8 @@
 import {
   BrowserRouter as Router, Routes, Route
 } from "react-router-dom";
-import { HomePage } from "./pages/home-page/home-page";
-import { Header } from "./components/header/header";
+import { HomePage } from "./pages/home-page";
+import { Header } from "./components/header";
 
 
 function App() {
