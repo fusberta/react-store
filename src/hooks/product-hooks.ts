@@ -19,7 +19,6 @@ export function useProduct() {
             setLoading(false)
             setError(error.message)
         }
-        
     }
   
     useEffect(() => {
