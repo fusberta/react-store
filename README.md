@@ -1,1 +1,1 @@
-
+<a href="https://git.io/typing-svg" style='text-align: center;'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7C92E&center=true&multiline=true&width=605&height=100&lines=Hi+there%2C+my+name+is+Mihail;I+did+this+project+on+practice+in+college;%E2%86%93++%E2%86%93++%E2%86%93" alt="Typing SVG" /></a>
